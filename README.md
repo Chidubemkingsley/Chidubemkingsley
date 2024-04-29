@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chidubem Kingsley.</h1>
 
 <div align="center">
-  <img src ="./neon.gif" width="900px" height="350px"/>
+  <img src ="./Javascript.gif" width="900px" height="350px"/>
   
 </div>
 
