@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋,Hello I am Kingsley. An independent Security Researcher.</h1>
 
 
-### My goal is to help you protect your codebase against any predictable incidental hacks and abuse.
-
-## 👨🏻‍💻 About Me: 
-
-- 📧 📧 How to reach me **kingsleycaesar581@gmail.com**
+## Delivering High Quality Smart Contract Audits
 
 ## FINDINGS
 
