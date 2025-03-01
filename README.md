@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋,Hello I am Kingsley. An independent Security Researcher.</h1>
 
 
-<img  src="./person.gif" height="290px" align="right" />
-
-## My goal is to help you protect your codebase against any predictable incidental hacks and abuse.
+### My goal is to help you protect your codebase against any predictable incidental hacks and abuse.
 
 ## 👨🏻‍💻 About Me: 
 
