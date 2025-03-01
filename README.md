@@ -10,7 +10,7 @@
 
 ## Let's Connect
 
-## For Private Audits Or Security Comsulting, Reach Out to Me On:
+## For Private Audits Or Security Consulting, Reach Out to Me On:
 
 - Telegram [@TZARblue](https://t.me/TZARblue)
 - Twitter [@KingsleyCaesar1](x.com/KinsgleyCaesar1)
