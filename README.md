@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋,Hello I am Kingsley. An independent Security Researcher.</h1>
 
-<div align="center">
-  <img src ="./Javascript.gif" width="900px" height="350px"/>
-  
-</div>
 
- <br/>
- 
+<img  src="./person.gif" height="290px" align="right" />
 
-#### My goal is to help you protect your codebase against any predictable incidental hacks and abuse.
+## My goal is to help you protect your codebase against any predictable incidental hacks and abuse.
 
 ## 👨🏻‍💻 About Me: 
-<img  src="./person.gif" height="290px" align="right" />
 
 - 📧 📧 How to reach me **kingsleycaesar581@gmail.com**
 
