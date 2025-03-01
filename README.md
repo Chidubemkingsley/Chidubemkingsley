@@ -15,8 +15,8 @@
 - Telegram [@TZARblue](https://t.me/TZARblue)
 - Twitter [@KingsleyCaesar1](x.com/KinsgleyCaesar1)
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/chidubem-rubeluchukwuisi-b78599156)
-- Portfolio: [Your Portfolio Website](https://github.com/Chidubemkingsley/audit-portfolio/blob/main/README.md)
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/chidubem-rubeluchukwuisi-b78599156)
+- Portfolio: [Portfolio Website](https://github.com/Chidubemkingsley/audit-portfolio/blob/main/README.md)
 
 
 ## 🧰 Languages and Tools:
