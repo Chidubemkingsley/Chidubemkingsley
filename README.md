@@ -1,12 +1,19 @@
-<h1 align="center">Hi 👋,Hello I am Kingsley. An independent Security Researcher.</h1>
+<h1 align="center">Hi 👋,Hello I am Kingsley. A Smart Contract Engineer And A Security Researcher.</h1>
 
 
-## Delivering High Quality Smart Contract Audits
+## Delivering High Quality Smart Contract Audits And Building Scalable Products.
 
 ## FINDINGS
 
 - Category: CTF_Challenge | Prize:$100 💰 | Language: Solidity.
 -[Egis Security CTF](https://github.com/Egis-Security/CTF_Challenge/issues/29)
+
+## Hackathon Wins
+
+🏆 4th place at ZkForge Hackathon! 🏆 | Prize:$250
+- [Winning Project](https://zk-stream-shs9.vercel.app/)
+- [Github](https://github.com/Chidubemkingsley/ZkStream)
+- [Hackathon Winning Details](https://x.com/zk_monk/status/1972341927002649045)
 
 ## Let's Connect
 
@@ -27,8 +34,8 @@
 - Move
 - Cairo
 
-Feel free to reach out! I'm always open to interesting conversations and collaborations.
+###  Feel free to reach out! I'm always open to interesting conversations and collaborations.
 
-Thanks for stopping by! 😊
+### Thanks for stopping by! 😊
 
 
